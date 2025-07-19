@@ -1,10 +1,10 @@
 # Quotix
 A Quotation Maker App to make Business Easy.
 
-#Description
+# Description
 Quotix is the Mobile Application for Android and Ios which is used to Make Your Business Easy by Generating Smart Quotation.
 
-#Features
+# Features
 
 1. Manage Categories,Products.
 2. Manage User Data.
