@@ -1,1 +1,9 @@
 export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export 'package:quotix/theme/theme.dart';
+export 'package:flutter/services.dart';
+export 'package:quotix/modules/dashboard/view/about_screen.dart';
+export 'package:quotix/modules/dashboard/view/dashboard_screen.dart';
+export 'package:quotix/modules/splash/view/splash_screen.dart';
+export 'package:quotix/utils/page_config.dart';
+export '../../../utils/space_config.dart';
