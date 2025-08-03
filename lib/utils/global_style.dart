@@ -13,12 +13,7 @@ class GlobalStyle{
       fontSize: 18,
       color: Colors.white
   );
-  /*
-  this is used for height at product card using gridDelegate
-  if you change font size or using custom font such as google font, sometimes there is an error said
-  "Bottom overflowed by xx pixel" depends on the font height (Every font has a different height)
-  so you need to change below
-  */
+
   static const double gridDelegateRatio = 0.725;//0.625; // lower is more longer
   static const double gridDelegateFlashsaleRatio = 0.597; // lower is more longer
   static const double horizontalProductHeightMultiplication = 1.90; // higher is more longer
