@@ -1,5 +1,4 @@
 import 'package:quotix/import_export.dart';
-import 'package:quotix/main.dart';
 
 class ProgressIndicators{
 
