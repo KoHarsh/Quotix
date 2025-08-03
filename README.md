@@ -1,16 +1,13 @@
-# quotix
+# Quotix
+A Quotation Maker App to make Business Easy.
 
-Quotation Maker App
+# Description
+Quotix is the Mobile Application for Android and Ios which is used to Make Your Business Easy by Generating Smart Quotation.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Manage Categories,Products.
+2. Manage User Data.
+3. Generate Quotation of the selected products with categories.
+4. User can export generated quotation in pdf formate.
+5. Manage the history of Generated Quotations.
